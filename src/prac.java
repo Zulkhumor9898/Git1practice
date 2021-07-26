@@ -5,5 +5,7 @@ public class prac {
         //fhgchh
         //jhjgj
         //nbbnb
+        //qalb
+        //heart
     }
 }
